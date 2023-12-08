@@ -1,12 +1,12 @@
-## Evil-Droid Framework . version 0.3 
-    Author: Mascerano Bachir [ dev-labs ]
+## REvil-Trace Framework . version 0.1 
+    Author: Saksham Malik [ RevilHackers ]
 
 ## Legal Disclamer:
     The author does not hold any responsibility for the bad use of this tool,
     remember this is only for educational purpose.
 
 ## Description:
-    Evil-Droid is a framework that create & generate & embed apk payload to penetrate android platforms
+    REvil-Trace is a framework that create & generate & embed apk payload to penetrate android platforms
  
 ## Screenshot:
 ![pic1](https://i.imgur.com/LczO636.png)
@@ -25,14 +25,13 @@
 
 ## Download/Config/Usage:
     1? - Download the tool from github
-         git clone https://github.com/M4sc3r4n0/Evil-Droid.git
-
+         git clone https://github.com/mrsakshammalik/REvil-Trace.git
     2? - Set script execution permission
-         cd Evil-Droid
-         chmod +x evil-droid
+         cd REvil-Trace
+         chmod +x revil-trace
 
 
-    4?- Run Evil-Droid Framework :
+    4?- Run REvil-Trace Framework :
        ./evil-droid
          see options bellow	   
       
