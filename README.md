@@ -9,7 +9,7 @@
     REvil-Trace is a framework that create & generate & embed apk payload to penetrate android platforms
  
 ## Screenshot:
-![pic1](https://i.imgur.com/LczO636.png)
+![pic1](https://revilhackers.org/REvilTrace.png)
 
 ![pic2](https://i.imgur.com/mhXxb5Q.png)
 
