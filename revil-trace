@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
 #
-# Evil-Droid Framework . version 0.3
-# Evil-Droid is a framework that create & generate & embed apk payload to penetrate android platform
+# REvil-Trace Framework . version 0.1
+# REvil-Trace is a framework that create & generate & embed apk payload to penetrate android platform
 # 
-#                  Created By Mascerano Bachir .
-#                 Website: http://www.dev-labs.co
-#           YTB : https://www.youtube.com/c/mascerano%20bachir  
-#        FCB : https://www.facebook.com/kali.linux.pentesting.tutorials
-#Speciak thanks to : MrPedroubuntu , Kader Achraf , youcef yahia and Mohammed Yacine
+#                  Created By Saksham Malik .
+#                 Website: http://revilhackers.org
+#           YTB : https://www.youtube.com/REvilTrace 
+#        FCB : https://www.facebook.com/
+
 #
-# this is an open source tool if you want to modify or add something . Please give me a copy.
+
 
 # resize terminal window
 resize -s 40 70 > /dev/null
@@ -215,7 +215,7 @@ if [ ! -d "$directory" ]; then
         sleep 3
 fi
 echo -e $red "╔────────────────────────────────────────────────╗"
-echo -e $red "|    Evil-Droid Framework $ver - Dev-labs.co     |"
+echo -e $red "|    REvil-Trace Framework $ver - revilhackers.org     |"
 echo -e $red "|   Please do not upload APK to VirusTotal.com   |"
 echo -e $red "┖────────────────────────────────────────────────┙"
 #function ascii banner
@@ -244,7 +244,7 @@ echo -e $lightgreen "             MMMMM   MMMMM           "
 echo -e $lightgreen "             MMMMM   MMMMM           "   
 echo -e $lightgreen "             MMMMM   MMMMM           "   
 echo -e $lightgreen "             .MMM.   .MMM.           " 
-echo -e $lightgreen "     Mascerano Bachir - Dev-labs     "                                 
+echo -e $lightgreen "     Saksham Malik - revilhackers.org     "                                 
 }
 #function lhost
 function get_lhost() 
