@@ -716,11 +716,11 @@ start=$(zenity --question --title="☢ Evil-Droid Framework ☢" --text "Execute
     clear
     echo ""
     echo -e $lightgreen "╔──────────────────────────────────────────────╗"
-    echo -e $lightgreen "|           Author: Mascerano Bachir           |"
-    echo -e $lightgreen "|    Evil-Droid Framework $ver - Dev-labs.co   |"
-    echo -e $lightgreen "|   Credits to : MrPedroubuntu , Kader Achraf  |"
-    echo -e $lightgreen "|               , youcef yahia                 |"
-    echo -e $lightgreen "|              and Mohammed Yacine             |"
+    echo -e $lightgreen "|           Author: Saksham Malik              |"
+    echo -e $lightgreen "|    REvil-Trace Framework $ver - REvilHackers |"
+    echo -e $lightgreen "|   Credits to : Kali , Black Arch             |"
+    echo -e $lightgreen "|               , Ubuntu                       |"
+    echo -e $lightgreen "|              and Wsl                         |"
     echo -e $lightgreen "┖──────────────────────────────────────────────┙"
     echo ""
     apache_svc_stop
@@ -737,8 +737,8 @@ function main()
         print_ascii_art
         echo -e $green ""
         echo "╔──────────────────────────────────────────────╗"
-        echo "|          Evil-Droid Framework $ver           |"
-        echo "|      Hack & Remote android plateform         |"
+        echo "|          REvil-Trace Framework $ver           |"
+        echo "|      Hack, Trace and Remote android plateform |"
         echo "┖──────────────────────────────────────────────┙"
         echo "[1] APK MSF                                     "
         echo "[2] BACKDOOR APK ORIGINAL (OLD)                 "
