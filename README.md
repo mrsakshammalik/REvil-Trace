@@ -32,7 +32,7 @@
 
 
     4?- Run REvil-Trace Framework :
-       ./evil-droid
+       ./revil-trace
          see options bellow	   
       
 
